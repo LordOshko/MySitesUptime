@@ -5,17 +5,22 @@ repo: MySitesUptime  # The name of this repository
 sites:
   - name: Inflatus Lab Server
     url: https://server.inflatuslab.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Guide Your Life
+    url: https://guideyourlife.pro
+  - name: Inbox Impact
+    url: https://inboximpact.lol
+  - name: Inflatus Labs
+    url: https://inflatuslabs.com
+  - name: Inflatus Lab Server
+    url: https://server.inflatuslab.com   
+  - name: Mail Magic Hub
+    url: https://mailmagichub.lol    
+  - name: Mail Master Mind
+    url: https://mailmastermind.lol
+  - name: Mind Mastery Hub
+    url: https://mindmasteryhub.pro
+  - name: Email Empire
+    url: https://emailempire.lol  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
