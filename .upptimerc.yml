@@ -21,6 +21,12 @@ sites:
     url: https://mindmasteryhub.pro
   - name: Email Empire
     url: https://emailempire.lol  
+  - name: Inbox Impact Great Site
+    url: https://inboximpact.great-site.net 
+  - name: Inbox Impact Love To Blog
+    url: https://inboximpact.lovestoblog.com
+  - name: Inbox Impact Free
+    url: https://inboximpact.free.nf 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
