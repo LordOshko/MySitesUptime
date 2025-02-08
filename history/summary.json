@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.inflatuslab.com.ico",
     "slug": "inflatus-lab-server",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 304,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
-    "dailyMinutesDown": {}
+    "uptime": "99.97%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1730,
+    "timeDay": 6975,
+    "timeWeek": 1730,
+    "timeMonth": 1730,
+    "timeYear": 1730,
+    "dailyMinutesDown": {
+      "2025-02-08": 2
+    }
   },
   {
     "name": "Guide Your Life",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/inboximpact.lol.ico",
     "slug": "inbox-impact",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.51%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 675,
     "timeDay": 980,
     "timeWeek": 675,
     "timeMonth": 675,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-02-08": 2
+      "2025-02-08": 30
     }
   },
   {
@@ -79,17 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.inflatuslab.com.ico",
     "slug": "inflatus-lab-server",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 304,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
-    "dailyMinutesDown": {}
+    "uptime": "99.97%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1730,
+    "timeDay": 6975,
+    "timeWeek": 1730,
+    "timeMonth": 1730,
+    "timeYear": 1730,
+    "dailyMinutesDown": {
+      "2025-02-08": 2
+    }
   },
   {
     "name": "Mail Magic Hub",
@@ -151,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/emailempire.lol.ico",
     "slug": "email-empire",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 558,
     "timeDay": 755,
     "timeWeek": 558,
     "timeMonth": 558,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 28
     }
   },
   {
@@ -182,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 1287,
+      "2025-02-08": 1315,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -206,7 +210,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 1287,
+      "2025-02-08": 1315,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -230,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 1287,
+      "2025-02-08": 1315,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
