@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/inboximpact.lol.ico",
     "slug": "inbox-impact",
     "status": "down",
-    "uptime": "98.46%",
-    "uptimeDay": "93.44%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.46%",
+    "uptime": "96.94%",
+    "uptimeDay": "86.72%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "96.94%",
     "time": 897,
     "timeDay": 1230,
     "timeWeek": 897,
     "timeMonth": 897,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2025-02-08": 94
+      "2025-02-09": 66,
+      "2025-02-08": 125
     }
   },
   {
@@ -151,18 +152,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/emailempire.lol.ico",
     "slug": "email-empire",
     "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "uptime": "97.23%",
+    "uptimeDay": "87.99%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "97.23%",
     "time": 2246,
     "timeDay": 4778,
     "timeWeek": 2246,
     "timeMonth": 2246,
     "timeYear": 2246,
     "dailyMinutesDown": {
-      "2025-02-08": 76
+      "2025-02-09": 66,
+      "2025-02-08": 107
     }
   },
   {
@@ -182,7 +184,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 1410,
+      "2025-02-09": 66,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -206,7 +209,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 1410,
+      "2025-02-09": 66,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -230,7 +234,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 1410,
+      "2025-02-09": 66,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
